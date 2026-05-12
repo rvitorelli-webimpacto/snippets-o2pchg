@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://rvitorelli-webimpacto.github.io/snippets-o2pchg/sitemap.xml
